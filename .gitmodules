@@ -1,3 +1,6 @@
 [submodule "thirdparty/dmlua"]
 	path = thirdparty/dmlua
 	url = https://github.com/brinkqiang/dmlua.git
+[submodule "thirdparty/dmtimer"]
+	path = thirdparty/dmtimer
+	url = https://github.com/brinkqiang/dmtimer.git
