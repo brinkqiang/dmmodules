@@ -1,0 +1,3 @@
+[submodule "thirdparty/dmlua"]
+	path = thirdparty/dmlua
+	url = https://github.com/brinkqiang/dmlua.git
