@@ -10,3 +10,6 @@
 [submodule "thirdparty/dmstyle"]
 	path = thirdparty/dmstyle
 	url = https://github.com/brinkqiang/dmstyle.git
+[submodule "thirdparty/dmpath"]
+	path = thirdparty/dmpath
+	url = https://github.com/brinkqiang/dmpath.git
